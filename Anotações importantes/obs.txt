@@ -1,0 +1,8 @@
+Nesse projeto foi instalado uma biblioteca que ao modificar algum arquivo, ela atualiza e reinica o servidor, chamada de "nodemon", que também foi instalada como dependência de desenvolvimento
+
+// .env
+ - arquivo de variáveis de ambiente (não podem ser mostradas no github)
+//
+
+// dotenv
+- Para usar as varáveis de ambiente e conectar ao arquivo que conecnta ao mongodb, deve-se usar uma bibliteca chamada "dotenv"
